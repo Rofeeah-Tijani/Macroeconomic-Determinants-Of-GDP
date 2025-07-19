@@ -11,7 +11,7 @@ Macroeconomic Determinants Of GDP: : A Panel Data Analysis Using Fixed Effects
 
 [📌Focus Areas](#-Focus-Areas)
 
-[🌐Source Of Data](#-Source-Of-Data
+[🌐Source Of Data](#-Source-Of-Data)
 
 [📊 Dataset Description](#-Dataset-Description)
 
@@ -24,11 +24,11 @@ Macroeconomic Determinants Of GDP: : A Panel Data Analysis Using Fixed Effects
 [📬Let's Connect](#-Let's-Connect)
 
 
-[📘 Project Overview]
+"[📘 Project Overview]"
 
 This project investigates the key macroeconomic factors that influence Gross Domestic Product (GDP) across multiple countries over time using panel data analysis. By applying a Fixed Effects (FE) model, the analysis controls for time-invariant characteristics of each country to isolate the effect of variables such as exchange rate, exports, foreign direct investment (FDI), and inflation on GDP.
 
-[🧩 Problem Statement]
+"[🧩 Problem Statement]"
 
 Economic growth, typically measured by Gross Domestic Product (GDP), is influenced by multiple macroeconomic indicators. Understanding the drivers of GDP is crucial for policymakers, economists, and investors. However, the dynamic and country-specific nature of these relationships calls for robust analytical methods.
 
@@ -36,11 +36,11 @@ This project aims to investigate the macroeconomic determinants of GDP across mu
 
 By applying statistical techniques suited for longitudinal data, the analysis provides insights into which economic indicators have the most significant and consistent influence on GDP across different countries and time periods.
 
-[📌Objective]
+"[📌Objective]"
 
 To empirically determine which macroeconomic indicators significantly impact GDP and quantify their effects using robust econometric techniques tailored for panel data.
 
-📊 [Focus Area]
+📊 "[Focus Area]"
 
 This project focuses on the following core analytical areas:
 
