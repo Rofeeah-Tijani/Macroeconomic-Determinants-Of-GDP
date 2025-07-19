@@ -3,32 +3,32 @@ Macroeconomic Determinants Of GDP: : A Panel Data Analysis Using Fixed Effects
 
 ## TABLE OF CONTENTS
 
-"[🔍 Project Overview]"
+[Project Overview](#-Project-Overview)
 
-"[❗Problem Statement]"
+[❗Problem Statement](#-Problem-Statement)
 
-"[🎯 Objective]"
+[🎯Objective](#-Objective)
 
-"[📌 Focus Areas]"
+[📌Focus Areas](#-Focus-Areas)
 
-"[🌐Source Of Data]"
+[🌐Source Of Data](#-Source-Of-Data
 
-"[📊 Dataset Description]"
+[📊 Dataset Description](#-Dataset-Description)
 
-"[🛠️Tool Used]"
+[🛠️Tool Used](#-Tool-Used)
 
-"[🔧Methodology]"
+[🔧Methodology](#-Methodology)
 
-"[Model Summary And Interpretation]"
+[Model Summary And Interpretation](#-Model-Summary-And-Interpretation)
 
-"[📬Let's Connect]"
+[📬Let's Connect](#-Let's-Connect)
 
 
-"[📘 Project Overview]"
+[📘 Project Overview]
 
 This project investigates the key macroeconomic factors that influence Gross Domestic Product (GDP) across multiple countries over time using panel data analysis. By applying a Fixed Effects (FE) model, the analysis controls for time-invariant characteristics of each country to isolate the effect of variables such as exchange rate, exports, foreign direct investment (FDI), and inflation on GDP.
 
-"[🧩 Problem Statement]"
+[🧩 Problem Statement]
 
 Economic growth, typically measured by Gross Domestic Product (GDP), is influenced by multiple macroeconomic indicators. Understanding the drivers of GDP is crucial for policymakers, economists, and investors. However, the dynamic and country-specific nature of these relationships calls for robust analytical methods.
 
@@ -36,11 +36,11 @@ This project aims to investigate the macroeconomic determinants of GDP across mu
 
 By applying statistical techniques suited for longitudinal data, the analysis provides insights into which economic indicators have the most significant and consistent influence on GDP across different countries and time periods.
 
-"[📌Objective]"
+[📌Objective]
 
 To empirically determine which macroeconomic indicators significantly impact GDP and quantify their effects using robust econometric techniques tailored for panel data.
 
-📊 "[Focus Area]"
+📊 [Focus Area]
 
 This project focuses on the following core analytical areas:
 
@@ -70,7 +70,7 @@ Running both Fixed and Random Effects models, and applying the Hausman Test to d
    
 Interpreting the sign, size, and significance of each coefficient in the context of macroeconomic policy.
 
-"[📁Source Of Data]"
+[📁Source Of Data]
 
 The dataset used in this project was provided by a third party and is not publicly available. It includes macroeconomic indicators for multiple countries over several 
 
@@ -344,7 +344,7 @@ Inflation’s positive sign is surprising but could be due to the nature of pane
 
 Created by Rofee'ah Tijani
 
-🔗 [LinkedIn]( https://www.linkedin.com/in/rofee-ah-tijani-713759253)
+🔗 [LinkedIn](#https:-//www.-linkedin.-com/-in-/-rofee-ah-tijani-713759253)
 
 📫 For collaboration or inquiries: Send a message on LinkedIn
 
